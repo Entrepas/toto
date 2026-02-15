@@ -1,4 +1,2 @@
-Package Version
-------- -------
-numpy   2.4.2
-pip     24.2
+streamlit
+pandas
